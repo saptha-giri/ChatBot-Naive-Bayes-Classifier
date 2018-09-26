@@ -1,0 +1,18 @@
+[
+  {
+    "action": "creator",
+    "reply": "Hi, my founder is sapthagiri"
+  },
+  {
+    "action": "tellme",
+    "reply": "Hi, i'm your personal companion, how may i help u"
+  },
+  {
+    "action": "fine",
+    "reply": "i'm good, how are you"
+  },
+  {
+    "action": "aboutFounder",
+    "reply": "my founder is software engineer, he developed me and trained me to engage with u"
+  }
+]

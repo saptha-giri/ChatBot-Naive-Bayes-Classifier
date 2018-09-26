@@ -1,0 +1,17 @@
+[
+  {
+    "action": "tellme",
+    "sentance": [
+        "who are you",
+        "tell me about you",
+        "tell me about yourself",
+        "can i know who you are",
+        "who is this",
+        "what do you do",
+        "what are the services u can provide",
+        "how can you help me",
+        "what else you can do",
+        "help me"
+        ]
+  }
+]
