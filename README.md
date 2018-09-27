@@ -1,12 +1,12 @@
 # ChatBot-Naive-Bayes-Classifier
 
-##prerequisites to run chat bot
+###prerequisites to run chat bot
 
 - Node latest version
 - nodemon to run the server
 - Any Ide for example : "sublime text3" or "notepad ++"
 
-##Setup a Project
+###Setup a Project
 
 1. clone the current git repository
 use git
