@@ -15,7 +15,7 @@ use git
 git clone https://github.com/saptha-giri/ChatBot-Naive-Bayes-Classifier.git
 ```
 2. move to root folder and enter the command in node cmd - ``` npm init ```
-3. After initialization run ``` node app.js ``` in node cmd, which will start the express server.
+3. After initialization run ``` nodemon app.js ``` in node cmd, which will start the express server.
 4. open the ```index.html``` in any browser located in public folder of root directory.
 
 ### we are done here, feel free to change the code
