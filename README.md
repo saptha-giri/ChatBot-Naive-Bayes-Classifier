@@ -20,3 +20,7 @@ git clone https://github.com/saptha-giri/ChatBot-Naive-Bayes-Classifier.git
 
 ### we are done here, feel free to change the code
 ### Happy coding :wink:
+
+## Screenshot of Chatbot 
+
+![screenshot 5](https://user-images.githubusercontent.com/43612718/46282664-b73ca400-c58f-11e8-87e3-1a009dddc2ee.png)
