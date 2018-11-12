@@ -15,7 +15,7 @@ use git
 git clone https://github.com/saptha-giri/ChatBot-Naive-Bayes-Classifier.git
 ```
 2. move to root folder and enter the command in node cmd - ``` npm install ```.
-3. To run chat server type the command ``` npm run server.js ``` in your terminal window.
+3. To run chat server type the command ``` npm run server ``` in your terminal window.
 4. To run chat application (react app) type the command ``` npm start ``` in your terminal window. 
 
 ### we are done here, feel free to change the code
