@@ -31,13 +31,15 @@ app.post('/api/chat/trainModel', (req, res) => {
 
 app.post('/api/chat/reply', (req, res) => {
     let userMessage = req.body.userMessage;
-
     chat.getAction(userMessage).then((trainedAction) => {
 
         trainedAction = trainedAction.substring(1, trainedAction.length - 1);
 
+        console.log("Trained Action",trainedAction)
+
         var botReplyObject = JSON.parse(fs.readFileSync('reply.json', 'utf8'));
         botReplyObject.forEach((botData) => {
+            console.log("reply Action",botData.action)
             if (trainedAction == botData.action) {
             	var response = {};
             	response.reply = botData.reply;
