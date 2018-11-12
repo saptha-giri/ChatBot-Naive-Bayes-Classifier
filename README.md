@@ -14,13 +14,14 @@ use git
 ```bash
 git clone https://github.com/saptha-giri/ChatBot-Naive-Bayes-Classifier.git
 ```
-2. move to root folder and enter the command in node cmd - ``` npm init ```
-3. After initialization run ``` nodemon app.js ``` in node cmd, which will start the express server.
-4. open the ```index.html``` in any browser located in public folder of root directory.
+2. move to root folder and enter the command in node cmd - ``` npm install ```.
+3. To run chat server type the command ``` npm run server.js ``` in your terminal window.
+4. To run chat application (react app) type the command ``` npm start ``` in your terminal window. 
 
 ### we are done here, feel free to change the code
 ### Happy coding :wink:
 
 ## Screenshot of Chatbot 
 
-![screenshot 5](https://user-images.githubusercontent.com/43612718/46282664-b73ca400-c58f-11e8-87e3-1a009dddc2ee.png)
+![screenshot 8](https://user-images.githubusercontent.com/43612718/48346804-40bcb700-e6a2-11e8-984a-bd18c80458e0.png)
+
